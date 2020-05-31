@@ -3,7 +3,7 @@ This is a webpack Loader for making functions available in CSS calc() function b
 
 ## Installation
 ```
-$ npm install calc-loader
+$ npm i -D calc-loader
 ```
 
 ## Usage
