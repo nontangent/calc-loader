@@ -20,13 +20,14 @@ div {
 
 ```webpack.config.js
 module.exports = {
-	......,
+	// ......,
   module: {
     rules: [
       {
         test: /\.scss$/,
         use: [
-				... // Add ''calc-loader' under the SCSS Loaders
+				// ...
+				// Add ''calc-loader' under the SCSS Loaders
 					{ 
 						loader: 'calc-loader',
 						options: {
