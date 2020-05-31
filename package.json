@@ -1,12 +1,14 @@
 {
   "name": "calc-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a webpack Loader for making functions available in CSS calc() function by interpolation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+		"webpack",
+		"loader",
     "CSS",
     "calc",
     "interpolation",
