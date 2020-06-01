@@ -34,10 +34,10 @@ module.exports = {
         // Add ''calc-loader' under the SCSS Loaders 
           { 
             loader: 'calc-loader',
-						options: {
-							functions: ['pow']
-						},
-					}
+            options: {
+              functions: ['pow']
+            },
+          }
         ],
       }
     ],
