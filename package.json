@@ -15,6 +15,10 @@
     "SCSS",
     "SASS"
   ],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nontan18/calc-loader"
+	},
   "author": "Nozomu Miyamoto",
   "license": "MIT",
   "dependencies": {
