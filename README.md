@@ -8,6 +8,8 @@ $ npm i -D calc-loader
 
 ## Usage
 
+If you use `pow` function in `calc()`, you must edit `sample.scss` and `webpack.config.js`.
+	
 ```sample.scss
 @function pow($n, $k) {
   $res: 1;
