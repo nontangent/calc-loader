@@ -1,6 +1,6 @@
 {
   "name": "calc-loader",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This is a webpack Loader for making SCSS functions available in CSS calc() function by interpolation",
   "main": "index.js",
   "scripts": {
@@ -15,10 +15,10 @@
     "SCSS",
     "SASS"
   ],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/nontan18/calc-loader"
-	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nontan18/calc-loader"
+  },
   "author": "Nozomu Miyamoto",
   "license": "MIT",
   "dependencies": {
